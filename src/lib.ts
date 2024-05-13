@@ -7,3 +7,6 @@ export const initializeFormKit = (app: App) => {
 }
 
 export { default as Sandbox } from './components/Sandbox.vue';
+
+export { form } from './inputs/form';
+export { text as email } from './inputs/email';

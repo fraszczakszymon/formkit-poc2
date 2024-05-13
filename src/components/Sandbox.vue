@@ -8,7 +8,7 @@ defineComponent({
 
 <template>
 	<FormKit
-		type="form"
+		type="customForm"
 		#default="{ value }"
 	>
 		<FormKit
